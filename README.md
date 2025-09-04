@@ -1,6 +1,5 @@
 # Gyaan-Shaala 📑
-
-# - Backend
+- Backend
 
 Welcome to the backend repository for Gyaan-Shaala, a fully functional ed-tech platform.This server-side application is built using the MERN stack (NodeJS, ExpressJS, and MongoDB). It powers all the core functionalities of the platform, from user authentication to course management and payment processing.
 
