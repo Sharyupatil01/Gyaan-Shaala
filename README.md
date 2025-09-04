@@ -35,6 +35,10 @@ The database is built using MongoDB and uses Mongoose schemas to model the appli
 * Course Schema 
 * Other schemas for profiles, course progress, ratings, tags, and more
 
+## Workflow 
+
+<img width="768" height="179" alt="backend_workflow" src="https://github.com/user-attachments/assets/11b6a0fd-f228-4b2c-bbbf-ad203f1b6143" />
+
 
 
 ## ⚙️ API Endpoints
